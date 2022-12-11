@@ -1,5 +1,6 @@
 .portfolio-btns{
     @extend %list;
+    margin-bottom: 40px;
 
     @media screen and (min-width: 768px){
     display: flex;
